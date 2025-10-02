@@ -1,0 +1,17 @@
+title: Modern Go
+description: A Comprehensive Guide to Go Programming (2015-2025)
+theme: jekyll-theme-cayman
+baseurl: /Modern-Go
+url: https://cloudstreet-dev.github.io
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - .claude/
+  - .git/
+  - .github/
+  - LICENSE
+  - CLAUDE.md
